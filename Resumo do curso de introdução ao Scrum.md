@@ -24,7 +24,7 @@ Os pilares do Scrum são: transparência, adaptação e inspeção.
 
 **Sprint**: É composta por: Planning, Daily meeting, Review e Retrospectiva. Sua duração é 30 dias corridos ou menos.
 
-**Planejamento da Sprint (Sprint planning) **
+**Planejamento da Sprint (Sprint planning)**
 
 - Quem participa?
   - PO, Time Dev e SM
@@ -32,14 +32,14 @@ Os pilares do Scrum são: transparência, adaptação e inspeção.
 - O que é feito?
   - É definido o que pode ser entregue na Sprint e como alcançar esse objetivo.
 
-**Reunião diária (Daily meeting) **
+**Reunião diária (Daily meeting)**
 
 - Quem participa?
   - Obrigatoriamente o time dev e, opcionalmente ,SM e PO. 
 - O que é feito?
   - É discutido o que foi feito, o que será feito e se há impedimentos.
 
-**Revisão da Sprint (Sprint review) **
+**Revisão da Sprint (Sprint review)**
 
 - Quem participa?
   - PO, Time dev, Scrum master e, opcionalmente, os Stakeholders.
